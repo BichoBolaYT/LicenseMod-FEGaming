@@ -1,0 +1,14 @@
+{
+   "homepage": "https://minecraft.curseforge.com/projects/moreplates/files",
+   
+   "promos": {
+      "1.12.2-latest": "0.1.1",
+      "1.12.2-recommended": "0.1.1",
+   },
+   
+   "1.12.2": {
+   "0.1.1": "Fixed DNI Texture Problems; Added Update.json",
+   "0.1.0": "Updated to Minecraft 1.12.2 - MOD CREATION"
+   },
+
+}
